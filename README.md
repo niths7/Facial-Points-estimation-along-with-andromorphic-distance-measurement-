@@ -90,6 +90,9 @@ selected_points = []
     - Philtrum length
     - Upper face breadth
     - Middle face length
+    - 
+      ![image](https://github.com/user-attachments/assets/71c51d2f-6c0e-43bb-9289-552fcdd119cf)
+
 
 ## Contributing
 
@@ -106,4 +109,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-You can customize the project name, GitHub links, or additional details as needed.
